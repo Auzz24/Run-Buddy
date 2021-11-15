@@ -70,8 +70,8 @@ footer a{
     border-width: 3px;
     border-color: #024e76;
     position: absolute;
-    bottom: 120px;
-    right: 140px;
+    bottom: 75px;
+    right: 100px;
 }
 .hero-form p{
     margin: 5px  0 15px 0;
@@ -237,4 +237,6 @@ footer a{
   .hero-secondary {
     background-color: black;
     color: red;
+    margin: 20px;
+    font-size: 20px;
   }
