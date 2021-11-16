@@ -11,4 +11,4 @@ A website that offers fitness training services.
 file:///Users/austinmiller/projects/Tiny-Tiny/index.html
 
 ## Contribution
-Made with ❤️ by AUSTIN MILLER 
+Made with ❤️ by AUSTIN J. MILLER 
