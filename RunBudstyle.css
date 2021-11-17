@@ -44,7 +44,6 @@ header nav ul li a{
 }
 
 /*footer*/
-}
 footer{
     display: flex;
     justify-content: space-between;
@@ -64,16 +63,14 @@ footer div {
 }
 footer a{
     color: #024e76;
-
-    section { 
+}
+section { 
         padding: 60px;
     }
 
     /*hero*/ 
-}
 .hero{
     background-image: url(../Tiny-Tiny/Assets/images/hero-bg.jpg);
-    height: 600px;
     background-size: cover;
     background-position: center;
     position: relative;
@@ -191,7 +188,7 @@ footer a{
   .step-img {
       flex: 1 12%;
       margin-right: 20px;
-
+  }
 .step-img img {
     max-width: 100%;
 }
@@ -199,7 +196,6 @@ footer a{
     flex: 12;
 }
 
-  }
   .step-text p{
     color: #39a6b2;
     font-size: 18px;
@@ -310,7 +306,7 @@ footer a{
 
 .contact-info a {
   color: #fce138;
-
+}
   /*utilities*/
 
   .text-left {
